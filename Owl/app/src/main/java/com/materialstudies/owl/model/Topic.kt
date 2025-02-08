@@ -30,9 +30,9 @@ object TopicDiff : DiffUtil.ItemCallback<Topic>() {
 }
 
 val topics = listOf(
-    Topic("Architecture", 58, "https://source.unsplash.com/RFDP7_80v5A"),
-    Topic("Arts & Crafts", 121, "https://source.unsplash.com/Tq4YjCa2BSc"),
-    Topic("Business", 78, "https://source.unsplash.com/MYbhN8KaaEc"),
+    Topic("Architecture", 58, "https://preview.qiantucdn.com/58pic/70/95/82/52Z58PICCK2DBmYahyMK58PIC_origin_PIC2018.jpg!w1024_new_small_1"),
+    Topic("Arts & Crafts", 121, "https://preview.qiantucdn.com/58pic/70/95/82/52Z58PICCK2DBmYahyMK58PIC_origin_PIC2018.jpg!w1024_new_small_1"),
+    Topic("Business", 78, "https://preview.qiantucdn.com/58pic/70/95/82/52Z58PICCK2DBmYahyMK58PIC_origin_PIC2018.jpg!w1024_new_small_1"),
     Topic("Culinary", 118, "https://source.unsplash.com/uB7q7aipU2o"),
     Topic("Design", 423, "https://source.unsplash.com/cXkrqY2wFyc"),
     Topic("Fashion", 92, "https://source.unsplash.com/omgRZCmTvUM"),
